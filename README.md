@@ -1,3 +1,1 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=El-12stu&fontSize=90&fontAlign=50&fontAlignY=30&desc=Backend%20Dev%20%26%20Coder&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=El-12stu)](https://github.com/anuraghazra/github-readme-stats)
