@@ -8,48 +8,54 @@
     <img width="800" src="https://readme-typing-svg.demolab.com?font=Microsoft+YaHei&size=20&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page;%e6%ac%a2%e8%bf%8e%e6%9d%a5%e5%88%b0%e6%88%91%e7%9a%84+GitHub+%e4%b8%bb%e9%a1%b5" alt="Hello World" title="Hello World"/>
 </p>
 
-<div align="center">
 
-# 🙋 Hello
-
-</div>
-
-<table>
+<table align="center" width="95%">
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="60%" style="padding-right:2%;">
+  <p>嗨，你好，我是 <strong>阿依木拉提·叶尔哈力</strong></p>
+  <p>🎓 电子科技大学 · 软件工程本科</p>
+  <p>🎓 香港中文大学 · 信息工程硕士</p>
+  <p>💻 Java 后端开发 & 分布式系统实践者</p>
+  <p>⚙️ 关注云原生微服务架构、分布式数据库优化及高并发系统设计</p>
+  <p>🚀 探索AI Agent、可自适应基础设施与分布式计算平台的工程实践</p>
+</td>
 
-### 🤺 About Me
+<td valign="top" width="40%" style="padding-left:2%; text-align:left;">
 
-<img align="right" width="110" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
+<p>🌐 <strong>博客</strong>：<a href="https://el-12stu.github.io/">el-12stu.github.io</a></p>
+<p>✍️ 博客正在持续创作中…</p>
 
-<p>嗨，你好，我是 <strong>阿依木拉提·叶尔哈力</strong>。</p>
-<p>🎓 电子科技大学 · 软件工程本科</p>
-<p>🎓 香港中文大学 · 信息工程硕士</p>
-<p>💻 Java 后端开发 & 分布式系统实践者</p>
-<p>⚙️ 关注微服务、数据库、高并发、DevOps</p>
-<p>🚀 致力于构建高可用、高扩展、高复用的工程系统</p>
+<p>🔗 <strong>论坛</strong>：</p>
+<ul>
+  <li>📝 <a href="https://www.zhihu.com/people/tang-seng-tou">知乎</a></li>
+  <li>💻 <a href="https://blog.csdn.net/weixin_73727639">CSDN</a></li>
+</ul>
+
+<p>🗣️ <strong>语言</strong>：</p>
+<ul>
+  <li>English – IELTS 7.5</li>
+  <li>Kazakh – Native</li>
+  <li>Chinese – Native</li>
+</ul>
 
 
 </td>
 
-<td width="50%" valign="top">
 
-### 📃 Recent Blog
 
-<img align="right" width="110" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
-> 🌐 我的博客：  
-> **https://el-12stu.github.io/**
 
-<!-- 示例，等待 RSS 后可自动更新 -->
-- 🔥 最新文章 Coming soon...
-- ✍️ 持续输出中...
-
-</td>
 </tr>
 </table>
 
----
+
+
+
+
+
+
+
+
 
 <div align="center">
 
