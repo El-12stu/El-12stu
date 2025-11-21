@@ -22,12 +22,9 @@
 
 <td valign="top" width="40%" style="padding-left:2%; text-align:left;">
 
-<p>🌐 <strong>博客</strong>：<a href="https://el-12stu.github.io/">el-12stu.github.io</a></p>
-<p>✍️ 博客正在持续创作中…</p>
-
-<p>🔗 <strong>论坛</strong>：</p>
+<p>🌐 <strong>博客 / Forum</strong>：</p>
 <ul>
-  <li>📝 <a href="https://www.zhihu.com/people/tang-seng-tou">知乎</a></li>
+  <li>📝 <a href="https://el-12stu.github.io/">GitHub 博客</a></li>
   <li>💻 <a href="https://blog.csdn.net/weixin_73727639">CSDN</a></li>
 </ul>
 
