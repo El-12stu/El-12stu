@@ -8,28 +8,77 @@
     <img width="800" src="https://readme-typing-svg.demolab.com?font=Microsoft+YaHei&size=20&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page;%e6%ac%a2%e8%bf%8e%e6%9d%a5%e5%88%b0%e6%88%91%e7%9a%84+GitHub+%e4%b8%bb%e9%a1%b5" alt="Hello World" title="Hello World"/>
 </p>
 
+<div align="center">
+
+# 🙋 Hello
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤺 About Me
+
+<img align="right" width="110" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
+
+<p>嗨，你好，我是 <strong>阿依木拉提·叶尔哈力</strong>。</p>
+<p>🎓 电子科技大学 · 软件工程本科</p>
+<p>🎓 香港中文大学 · 信息工程硕士</p>
+<p>💻 Java 后端开发 & 分布式系统实践者</p>
+<p>⚙️ 关注微服务、数据库、高并发、DevOps</p>
+<p>🚀 致力于构建高可用、高扩展、高复用的工程系统</p>
+
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📃 Recent Blog
+
+<img align="right" width="110" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
+
+> 🌐 我的博客：  
+> **https://el-12stu.github.io/**
+
+<!-- 示例，等待 RSS 后可自动更新 -->
+- 🔥 最新文章 Coming soon...
+- ✍️ 持续输出中...
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### ⏱️ WakaTime Coding Stats
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=AYIMULATI&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=AYIMULATI&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AYIMULATI&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
+</picture>
+
+</div>
+
+
+
+
+
 <p align="center">
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=El-12stu&theme=dark&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&include_all_commits=true" alt="Profile Stats" title="Profile Stats" />
     <img width="400" src="https://github-readme-streak-stats-xiaokang2022.vercel.app?user=El-12stu&theme=dark&hide_border=true" alt="Streak Stats" title="Streak Stats" />
 </p>
-# 🙋 Hello
 
-<table>
 
-<tr><td>
-
-### 🤺 About Me
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
-
-<p>&emsp;&emsp;嗨，你好，我是 AYIMULATI, YEERHALI。电子科技大学软件工程本科生，香港中文大学信息工程硕士。</p>
-<p>&emsp;&emsp;专注于 Java 后端开发，热爱编程、系统架构、分布式系统、数据库和 DevOps。</p>
-<p>&emsp;&emsp;我希望通过代码构建高可复用、高扩展性的系统，让软件开发更加高效与优雅。</p>
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
-
-</td></tr>
-
-</table>
 
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
@@ -43,14 +92,7 @@
 </p>
 
 <p align="center">
-  <!-- 支持部分技术：用 go‑skill‑icons -->
-  <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,redis,docker&titles=true" alt="Backend Tech Stack" />
-
-  <!-- 不支持的技术：自己插入 SVG 图标 -->
-  <br/>
-  <img src="https://raw.githubusercontent.com/你的图床仓库路径/nacos.svg" width="40" alt="Nacos" />
-  <img src="https://raw.githubusercontent.com/你的图床仓库路径/gogs.svg" width="40" alt="Gogs" />
-  <img src="https://raw.githubusercontent.com/你的图床仓库路径/rabbitmq.svg" width="40" alt="RabbitMQ" />
-  <img src="https://raw.githubusercontent.com/你的图床仓库路径/seata.svg" width="40" alt="Seata" />
-  <img src="https://raw.githubusercontent.com/你的图床仓库路径/xxl-job.svg" width="40" alt="XXL‑JOB" />
+  <img width="1000" src="https://go-skill-icons.vercel.app/api/icons?i=c,java,spring,springbatch,springdatajpa,springsecurity,redis,mysql,neo4j,postgresql,sqlite,docker,kubernetes,nacos,rabbitmq,seata,elasticsearch,kafka,windows,vmwareworkstation,linux,websocket,idea,visualstudio,pycharm,tomcat,postman,jenkins,nginx,git&titles=true" alt="Backend & Middleware Tech Stack" />
 </p>
+
+
