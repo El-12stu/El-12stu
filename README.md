@@ -35,12 +35,7 @@
   <li>Chinese – Native</li>
 </ul>
 
-
 </td>
-
-
-
-
 
 </tr>
 </table>
@@ -50,8 +45,6 @@
   <img src="https://stats.justsong.cn/api/csdn?id=weixin_73727639&theme=dark" alt="CSDN Stats">
   <img src="https://stats.justsong.cn/api/leetcode?username=xin-xian-d3&cn=true&theme=dark" alt="LeetCode Stats">
 </div>
-
-
 
 
 
@@ -73,8 +66,14 @@
 
 </div>
 
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=El-12stu&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 
 
+
+<p align="center">
+    <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=El-12stu&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
+</p>
 
 
 <p align="center">
@@ -85,15 +84,11 @@
 
 
 <p align="center">
-    <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=El-12stu&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
-</p>
-
-<p align="center">
     <!-- https://github.com/ryo-ma/github-profile-trophy -->
     <!-- rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts -->
     <img width="800" src="https://github-profile-trophy.vercel.app/?username=El-12stu&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="Profile Trophy" title="Profile Trophy" />
 </p>
+
 
 <p align="center">
   <img width="1000" src="https://go-skill-icons.vercel.app/api/icons?i=c,java,spring,springbatch,springdatajpa,springsecurity,redis,mysql,neo4j,postgresql,sqlite,docker,kubernetes,nacos,rabbitmq,seata,elasticsearch,kafka,windows,vmwareworkstation,linux,websocket,idea,visualstudio,pycharm,tomcat,postman,jenkins,nginx,git&titles=true" alt="Backend & Middleware Tech Stack" />
