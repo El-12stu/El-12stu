@@ -17,7 +17,7 @@
   <p>🎓 香港中文大学 · 信息工程硕士</p>
   <p>💻 Java 后端开发 & 分布式系统实践者</p>
   <p>⚙️ 关注云原生微服务架构、分布式数据库优化及高并发系统设计</p>
-  <p>🚀 探索AI Agent、可自适应基础设施与分布式计算平台的工程实践</p>
+  <p>🚀 🚀 探索 AI-Native Agent 系统、自动化工具链与可扩展分布式计算平台的工程实践</p>
 </td>
 
 <td valign="top" width="40%" style="padding-left:2%; text-align:left;">
