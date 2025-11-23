@@ -15,7 +15,7 @@
   <p>嗨，你好，我是 <strong>阿依木拉提·叶尔哈力</strong></p>
   <p>🎓 电子科技大学 · 软件工程本科</p>
   <p>🎓 香港中文大学 · 信息工程硕士</p>
-  <p>💻 Java 后端开发 & 分布式系统实践者</p>
+  <p>💻 Java 后端开发 & 大模型应用架构与智能体系统构建</p>
   <p>⚙️ 关注云原生微服务架构、分布式数据库优化及高并发系统设计</p>
   <p>🚀 探索 AI-Native Agent 系统、自动化工具链与可扩展分布式计算平台的工程实践</p>
 </td>
@@ -25,7 +25,7 @@
 <p>🌐 <strong>博客 / Forum</strong>：</p>
 <ul>
   <li>📝 <a href="https://el-12stu.github.io/">GitHub 博客</a></li>
-  <li>💻 <a href="https://blog.csdn.net/weixin_73727639">CSDN</a></li>
+  <li>📝 <a href="https://blog.csdn.net/weixin_73727639">CSDN</a></li>
 </ul>
 
 <p>🗣️ <strong>语言</strong>：</p>
