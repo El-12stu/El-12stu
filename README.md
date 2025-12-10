@@ -46,18 +46,14 @@
   <img src="https://stats.justsong.cn/api/leetcode?username=xin-xian-d3&cn=true&theme=dark" alt="LeetCode Stats">
 </div>
 
-[![WakaTime: AYIMULATI](https://wakatime.com/badge/user/AYIMULATI.svg?style=for-the-badge)](https://wakatime.com/@AYIMULATI)
 <div align="center">
 
 ### ⏱️ WakaTime Coding Stats
 
-<img 
-  src="https://wakatime.com/share/@AYIMULATI/51d668be-3221-4d94-b152-446738914690.png" 
-  alt="WakaTime Weekly Stats" 
-  width="600"
-/>
+[![WakaTime: AYIMULATI](https://wakatime.com/badge/user/AYIMULATI.svg?style=for-the-badge)](https://wakatime.com/@AYIMULATI)
 
-</div>
+</div>[![WakaTime: AYIMULATI](https://wakatime.com/badge/user/AYIMULATI.svg?style=for-the-badge)](https://wakatime.com/@AYIMULATI)
+
 
 <div align="center">
 
