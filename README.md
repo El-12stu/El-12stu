@@ -63,7 +63,6 @@
 
 
 <p align="center">
-    <img src="https://hits.seeyou-on.top/scripts/dcb.php?site_id=El-12stu&time_offset=8" alt="GitHub Profile Views" />
     <img width="400" src="https://github-readme-streak-stats-xiaokang2022.vercel.app?user=El-12stu&theme=dark&hide_border=true" alt="Streak Stats" title="Streak Stats" />
 </p>
 
