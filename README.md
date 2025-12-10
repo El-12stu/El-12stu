@@ -50,28 +50,11 @@
 
 ### ⏱️ WakaTime Coding Stats
 
-[![WakaTime: AYIMULATI](https://wakatime.com/badge/user/AYIMULATI.svg?style=for-the-badge)](https://wakatime.com/@AYIMULATI)
-
-</div>[![WakaTime: AYIMULATI](https://wakatime.com/badge/user/AYIMULATI.svg?style=for-the-badge)](https://wakatime.com/@AYIMULATI)
-
-
-<div align="center">
-
-### ⏱️ WakaTime Coding Stats
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=AYIMULATI&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=AYIMULATI&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AYIMULATI&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
-</picture>
+[![wakatime](https://wakatime.com/badge/user/7a4cc936-b904-49de-8e16-83b5cc7cf077.svg?style=for-the-badge)](https://wakatime.com/@7a4cc936-b904-49de-8e16-83b5cc7cf077)
 
 </div>
+
+
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=El-12stu&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 
