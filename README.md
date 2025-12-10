@@ -54,15 +54,7 @@
 
 </div>
 
-<div align="center">
 
-### 🏆 GitHub Profile Summary
-
-<a href="https://github.com/El-12stu">
-    <img width="800" src="https://github-readme-stats.vercel.app/api?username=El-12stu&hide=contribs,prs,issues,stars&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub Stats Summary" />
-</a>
-
-</div>
 
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
@@ -71,6 +63,7 @@
 
 
 <p align="center">
+    <img width="400" src="https://github-readme-stats.netlify.app/api?username=El-12stu&theme=dark&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&include_all_commits=true" alt="Profile Stats" title="Profile Stats" />
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=El-12stu&theme=dark&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&include_all_commits=true" alt="Profile Stats" title="Profile Stats" />
     <img width="400" src="https://github-readme-streak-stats-xiaokang2022.vercel.app?user=El-12stu&theme=dark&hide_border=true" alt="Streak Stats" title="Streak Stats" />
 </p>
@@ -78,7 +71,7 @@
 
 
 <p align="center">
-            <img width="800" src="https://github-profile-trophy.onrender.com/?username=El-12stu&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="Profile Trophy" title="Profile Trophy" />
+            <img width="800" src="https://github-profile-trophy.netlify.app/?username=El-12stu&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="Profile Trophy" title="Profile Trophy" />
 </p>
 
 
