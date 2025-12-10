@@ -63,7 +63,6 @@
 
 
 <p align="center">
-    <img width="400" src="https://github-readme-stats.herokuapp.com/api?username=El-12stu&theme=dark&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&include_all_commits=true" alt="Profile Stats" title="Profile Stats" />
     <img width="400" src="https://github-readme-streak-stats-xiaokang2022.vercel.app?user=El-12stu&theme=dark&hide_border=true" alt="Streak Stats" title="Streak Stats" />
 </p>
 
