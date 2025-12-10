@@ -46,7 +46,7 @@
   <img src="https://stats.justsong.cn/api/leetcode?username=xin-xian-d3&cn=true&theme=dark" alt="LeetCode Stats">
 </div>
 
-
+[![WakaTime: AYIMULATI](https://wakatime.com/badge/user/AYIMULATI.svg?style=for-the-badge)](https://wakatime.com/@AYIMULATI)
 <div align="center">
 
 ### ⏱️ WakaTime Coding Stats
