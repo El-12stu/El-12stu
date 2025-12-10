@@ -63,6 +63,7 @@
 
 
 <p align="center">
+    <img src="https://profile-counter.glitch.me/El-12stu/count.svg" alt="GitHub Profile Views" />
     <img width="400" src="https://github-readme-streak-stats-xiaokang2022.vercel.app?user=El-12stu&theme=dark&hide_border=true" alt="Streak Stats" title="Streak Stats" />
 </p>
 
