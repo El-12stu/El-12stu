@@ -54,7 +54,15 @@
 
 </div>
 
+<div align="center">
 
+### 🏆 GitHub Profile Summary
+
+<a href="https://github.com/El-12stu">
+    <img width="800" src="https://github-readme-stats.vercel.app/api?username=El-12stu&hide=contribs,prs,issues,stars&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub Stats Summary" />
+</a>
+
+</div>
 
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
