@@ -70,11 +70,6 @@
 
 
 <p align="center">
-    <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=El-12stu&theme=dark&hide_border=true" alt="Streak Stats" title="Streak Stats" />
-</p>
-
-
-<p align="center">
   <img width="1000" src="https://go-skill-icons.vercel.app/api/icons?i=c,java,spring,springbatch,springdatajpa,springsecurity,redis,mysql,neo4j,postgresql,sqlite,docker,kubernetes,nacos,rabbitmq,seata,elasticsearch,kafka,windows,vmwareworkstation,linux,websocket,idea,visualstudio,pycharm,tomcat,postman,jenkins,nginx,git&titles=true" alt="Backend & Middleware Tech Stack" />
 </p>
 
