@@ -62,11 +62,6 @@
         alt="GitHub Stats" 
         title="GitHub Stats"
     />
-    <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=El-12stu&layout=compact&hide_border=true&theme=dark&langs_count=8&title_color=A0B5FF&icon_color=C084FC" 
-        alt="Top Languages" 
-        title="Top Languages"
-    />
 </p>
 <p align="center">
         <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=El-12stu&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
