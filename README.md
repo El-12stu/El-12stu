@@ -56,11 +56,9 @@
 
 
 <p align="center">
-    <img 
-        src="https://github-readme-stats.vercel.app/api?username=El-12stu&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=A0B5FF&icon_color=C084FC" 
-        alt="GitHub Stats" 
-        title="GitHub Stats"
-    />
+ <img
+  src="https://github-readme-stats-rho-two-82.vercel.app/api?username=El-12stu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
+/>
 </p>
 <p align="center">
         <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=El-12stu&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
