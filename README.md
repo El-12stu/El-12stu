@@ -1,6 +1,6 @@
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=As-salamu%20alaykum&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%27m%20AYIMULATI,%20YEERHALI&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Hi There" title="Hi There"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=As-salamu%20alaykum&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%27m%20AYIMULATI&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Hi There" title="Hi There"/>
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 <table align="center" width="95%">
 <tr>
 <td valign="top" width="60%" style="padding-right:2%;">
-  <p>嗨，你好，我是 <strong>阿依木拉提·叶尔哈力</strong></p>
+  <p>嗨，你好，我是 <strong>阿依木拉提</strong></p>
   <p>🎓 电子科技大学 · 软件工程本科</p>
   <p>🎓 香港中文大学 · 信息工程硕士</p>
   <p>💻 Java 后端开发 & 大模型应用架构与智能体系统构建</p>
